@@ -1,11 +1,11 @@
 Hi, I’m Sumit Kumar
 
 # ABOUT ME —
-– Tech enthusiast passionate about building real-world products.<br><br>
-– Skilled in React, JavaScript, Python, SQL, HTML, CSS, Bootstrap<br>
-– Learning in Data Analysis using NumPy and Pandas<br>
-– Worked upon Product Development projects<br>
-– Continuously learning and improving through hands-on coding
+– Tech enthusiast passionate about building real-world products.<br>
+– Skilled in React, JavaScript, Python, SQL, HTML, CSS, Bootstrap.<br>
+– Learning in Data Analysis using NumPy and Pandas.<br>
+– Worked upon Product Development projects.<br>
+– Continuously learning and improving through hands-on coding.
 
 
 # TECH STACK —
@@ -17,9 +17,9 @@ Hi, I’m Sumit Kumar
 
 
 # CURRENT FOCUS —
-- Studying Data Structures & Algorithms
-- Searching multiple Organisation to contribute in Open Source
-- Strengthening problem-solving skills
+- Studying Data Structures & Algorithms.
+- Searching multiple Organisation to contribute in Open Source.
+- Strengthening problem-solving skills.
 
 
 
