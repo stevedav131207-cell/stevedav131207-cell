@@ -3,7 +3,7 @@ Hi, I’m Sumit Kumar
 # ABOUT ME —
 – Tech enthusiast passionate about building real-world products.<br>
 – Skilled in React, JavaScript, Python, SQL, HTML, CSS, Bootstrap.<br>
-– Learning in Data Analysis using NumPy and Pandas.<br>
+– Learning in Data Analysis using NumPy, Pandas, Matplotlib, Seaborn.<br>
 – Worked upon Product Development projects.<br>
 – Continuously learning and improving through hands-on coding.
 
@@ -12,7 +12,7 @@ Hi, I’m Sumit Kumar
 - Frontend: React, HTML, CSS, Bootstrap, JavaScript
 - Programming: Python
 - Database: SQL
-- Data Tools: NumPy, Pandas, Matplotlib
+- Data Tools: NumPy, Pandas, Matplotlib, Seaborn
 
 
 
