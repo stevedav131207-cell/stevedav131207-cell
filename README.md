@@ -2,7 +2,7 @@ Hi, I’m Sumit Kumar
 
 # ABOUT ME —
 – Tech enthusiast passionate about building real-world products.<br>
-– Skilled in React, JavaScript, Python, SQL, HTML, CSS, Bootstrap.<br>
+– Skilled in Complete MERN stack , Python , Go .<br>
 – Learning in Data Analysis using NumPy, Pandas, Matplotlib, Seaborn.<br>
 – Worked upon Product Development projects.<br>
 – Continuously learning and improving through hands-on coding.
