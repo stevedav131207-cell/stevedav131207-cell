@@ -3,16 +3,17 @@ Hi, I’m Sumit Kumar
 # ABOUT ME —
 – Tech enthusiast passionate about building real-world products.<br>
 – Skilled in Complete MERN stack , Python , Go .<br>
-– Learning in Data Analysis using NumPy, Pandas, Matplotlib, Seaborn.<br>
-– Worked upon Product Development projects.<br>
+– Learned Data Analysis using NumPy, Pandas, Matplotlib, Seaborn.<br>
+- Learned Regression Models , Supervised Learning - Classification , Regression.<br>
+– Worked upon Product Development and Data Science Projects.<br>
 – Continuously learning and improving through hands-on coding.
 
 
 # TECH STACK —
-- Frontend: React, HTML, CSS, Bootstrap, JavaScript
-- Programming: Python
-- Database: SQL
-- Data Tools: NumPy, Pandas, Matplotlib, Seaborn
+- Frontend: MERN , HTML, CSS, Bootstrap, JavaScrip
+- Programming: Python , Javascript , Go
+- Database: MySql , PostGreSQL
+- Data Tools: Regression and Classification using Supervised Learning , NumPy, Pandas, Matplotlib, Seaborn 
 
 
 
